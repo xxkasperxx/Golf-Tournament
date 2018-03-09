@@ -1,0 +1,75 @@
+<manifest alg="2" build="704" opt="true" iceEnabled="true">
+  <folder name="assets">
+    <file name="senior-tee-option2012.pdf" crc="3782951170" mt="1368926822000"/>
+    <file name="bridgestone-order-form.pdf" crc="4168043726" mt="1368926830000"/>
+    <file name="pro-am-results-2012-(1).pdf" crc="4026000500" mt="1371507360000"/>
+    <file name="reserve-a-team.php" crc="4229538198" mt="1371939918000"/>
+    <file name="registration-by-credit-card.php" crc="287764235" mt="1370024726000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="206724265"/>
+    <file name="master_a-master.css" crc="463598580" ref="tournament-registration:tournament-information:reserve-a-team:index:event-information:contact-us:pay-by-check:sponsors:registration-by-credit-card:new-for-2013:results:schedule:past-events"/>
+    <file name="tournament-registration.css" crc="492825721" ref="tournament-registration"/>
+    <file name="tournament-information.css" crc="3853067999" ref="tournament-information"/>
+    <file name="reserve-a-team.css" crc="4174566349" ref="reserve-a-team"/>
+    <file name="index.css" crc="3885619519" ref="index"/>
+    <file name="event-information.css" crc="3970899381" ref="event-information"/>
+    <file name="contact-us.css" crc="56637669" ref="contact-us"/>
+    <file name="pay-by-check.css" crc="23060459" ref="pay-by-check"/>
+    <file name="sponsors.css" crc="160878071" ref="sponsors"/>
+    <file name="registration-by-credit-card.css" crc="51946683" ref="registration-by-credit-card"/>
+    <file name="new-for-2013.css" crc="380220796" ref="new-for-2013"/>
+    <file name="results.css" crc="60674156" ref="results"/>
+    <file name="schedule.css" crc="4224374057" ref="schedule"/>
+    <file name="past-events.css" crc="3814394252" ref="past-events"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="museutils.js" crc="3992981318" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3956991090" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="webpro.js" crc="197321703" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="musewpslideshow.js" crc="4283859919" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="jquery.museoverlay.js" crc="3836522771" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="form_check.php" crc="4259398763" ref="contact-us"/>
+    <file name="form_throttle.php" crc="497742690" ref="contact-us"/>
+    <file name="form-u1490.php" crc="139857279" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.png" crc="4027618884" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="left-01.png" crc="474403414" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="right-01.png" crc="4220774307" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="loading.gif" crc="3815509949" ref="index:past-events"/>
+    <file name="logo.png" crc="4049661205" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:tournament-information:tournament-registration:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:past-events:new-for-2013:schedule:results"/>
+    <file name="9.jpg" crc="426919113" ref="past-events"/>
+    <file name="960x45.jpg" crc="205584585" ref="past-events"/>
+    <file name="u1523-17.png" crc="440089133" ref="contact-us"/>
+    <file name="u1523-17-r.png" crc="292912033" ref="contact-us"/>
+    <file name="u1523-17-m.png" crc="261216649" ref="contact-us"/>
+    <file name="u1523-17-fs.png" crc="4001031594" ref="contact-us"/>
+    <file name="mv logo-01.png" crc="3873719524" ref="sponsors"/>
+    <file name="dsc06171.png" crc="4215023515" ref="index:tournament-information:tournament-registration:past-events:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:new-for-2013:schedule:results"/>
+    <file name="dsc06363.png" crc="460932407" ref="index:tournament-information:tournament-registration:past-events:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:new-for-2013:schedule:results"/>
+    <file name="picture1.png" crc="374693257" ref="index:tournament-information:tournament-registration:past-events:contact-us:sponsors:event-information:reserve-a-team:registration-by-credit-card:pay-by-check:new-for-2013:schedule:results"/>
+    <file name="untitled-3-01.png" crc="364541624" ref="sponsors"/>
+    <file name="pro am results 2012 (1).jpg" crc="211345931" ref="results"/>
+  </folder>
+  <file name="index.html" crc="4273240726" mt="1371940076557"/>
+  <file name="tournament-information.html" crc="3922737874" mt="1371940076558"/>
+  <file name="tournament-registration.html" crc="493699688" mt="1371940076559"/>
+  <file name="contact-us.html" crc="3857840934" mt="1371940076562"/>
+  <file name="sponsors.html" crc="4090723554" mt="1371940076563"/>
+  <file name="event-information.html" crc="310707824" mt="1371940076565"/>
+  <file name="reserve-a-team.html" crc="4160501593" mt="1371940076566"/>
+  <file name="registration-by-credit-card.html" crc="411497949" mt="1371940076567"/>
+  <file name="pay-by-check.html" crc="454230263" mt="1371940076568"/>
+  <file name="past-events.html" crc="438872215" mt="1371940076981"/>
+  <file name="new-for-2013.html" crc="4128595497" mt="1371940076570"/>
+  <file name="schedule.html" crc="3802777286" mt="1371940076571"/>
+  <file name="results.html" crc="3879903246" mt="1371940076572"/>
+</manifest>

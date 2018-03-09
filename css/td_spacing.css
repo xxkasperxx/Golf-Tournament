@@ -1,0 +1,31 @@
+td {
+	text-align:center;
+}
+#center{
+	float:left;
+	margin-left:150px;
+}
+label {
+    width: 140px; 
+    float: left;
+}
+
+.right{
+	margin-left:200px;
+}
+form{
+	float:left;
+	margin-top:100px;
+}
+h1{
+	color:#fff;
+	font-size:22pt;
+	float:left;
+	text-decoration:underline;
+}
+h2{
+	color:#fff;
+	font-size:22pt;
+	float:left;
+	text-decoration:underline;
+}

@@ -1,0 +1,152 @@
+#custom input{
+	margin-top:5%;
+}
+#submitbutton
+{
+padding: 10px 15px 11px !important;
+font-size: 18px !important;
+background-color: #6abb0a;
+font-weight: bold;
+text-shadow: 1px 1px #57D6C7;
+color: #ffffff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border: 1px solid #57960c;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+td {
+	color:#fff;
+}
+
+input {
+    border: 2px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 5px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+	}
+
+form {
+	color:#fff;
+	float:left;
+	margin-left:85px;
+}
+input#agree {
+	width:500px;
+}
+#terms{
+	float:right;
+	margin-right:-250px;
+	color:#fff;
+	margin-top:25px;
+}
+textarea {
+	float:left;
+	border: 2px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    padding: 5px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+#iagree {
+	float:left;
+	margin-top:-25px;
+	margin-left:-20px;
+}
+
+#agreebutton {
+	float:left;
+	margin-left:130px;
+}
+#custom{
+	float:left;
+	margin-left:-300px;
+}
+#centerme{
+	float:left;
+	margin-left:200px;
+}
+#centerlogin{
+	float:left;
+	margin-left:450px;
+}
+#topofterms{
+	float:left;
+	margin-left:-500px;
+	border:1px solid red;
+}
+h3 {
+	font-size:22pt;
+	float:right;
+	color:#fff;
+	text-decoration:underline;
+	margin-top:20px;
+	margin-left:-380px;
+}
+#top2 {
+	float:left;margin-top:-25px;
+	margin-left:-220px;
+}
+#iagree2 {
+	float:left;
+	margin-top:-25px;
+	margin-left:-150px;
+}
+#upgrades{
+	color:red;
+}
+#centerregister {
+	float:left;
+	margin-left:600px;
+	width:400px;
+}
+#terms2{
+	float:left;
+	margin-left:350px;
+	color:#fff;
+	margin-top:25px;
+}
+.highlight {
+		float:left;
+	border: 2px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.5),
+            0 0 16px rgba(0,0,0,0.5); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.5),
+            0 0 16px rgba(0,0,0,0.5); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.5),
+            0 0 16px rgba(0,0,0,0.5); 
+    padding: 5px;
+    background: rgba(184,0,97,0.1);
+    margin: 0 0 10px 0;
+}
+#redtext {
+	color:red;
+}
+
+#pushmeleft {
+	margin-left:170px;
+	font-size:20pt;
+}
